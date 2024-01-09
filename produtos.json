@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "nome": "Smartphone XYZ",
+      "marca": "TechCo",
+      "categoria": "Eletrônicos",
+      "preco": 999.99,
+      "quantidadeEstoque": 50,
+      "prontaEntrega": true
+    },
+    {
+      "id": 2,
+      "nome": "Notebook ABC",
+      "marca": "TechGadget",
+      "categoria": "Informática",
+      "preco": 1499.99,
+      "quantidadeEstoque": 20,
+      "prontaEntrega": false
+    },
+    {
+      "id": 3,
+      "nome": "Fones de Ouvido Bluetooth",
+      "marca": "AudioTech",
+      "categoria": "Áudio",
+      "preco": 79.99,
+      "quantidadeEstoque": 100,
+      "prontaEntrega": true
+    }
+  ]
+  
